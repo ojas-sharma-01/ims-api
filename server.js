@@ -45,7 +45,7 @@ app.get('/proxy', (req, res) => {
     const  dtt = {
       f : '',
       uid : '2022UEA6517',
-      pwd : 'qtxyal#1',
+      pwd : 'PASSWORD',
       fy : '2024-25',
       comp : 'NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY',
       logintype : 'student',
