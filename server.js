@@ -42,7 +42,7 @@ app.get('/proxy', async (req, res) => {
     //     sem: '4',
     //     enc_sem: 'bzngIXTD9NKptsurOuT2uYprJ8s+eXSclGX1b2PhazVDcfyHHauhgUP/eBD9QWYu',
     //     submit: 'Submit',
-    //     recentitycode: '2022UEA6516',
+    //     recentitycode: '',
     //     dept: 'ELECTRONICS AND COMMUNICATION ENGINEERING(EAST)',
     //     degree: 'B.Tech.',
     //     ename: '',
